@@ -90,7 +90,3 @@ Both ANN and CNN can classify handwritten digits effectively. However, CNN provi
 
 ---
 
-
-##  Note
-
-Accuracy values may vary slightly depending on training epochs and system performance.
